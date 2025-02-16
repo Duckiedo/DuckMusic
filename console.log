@@ -1,0 +1,6 @@
+client.once('ready', () => {
+ console.log('Ready!');
+});
+
+client.on("error", console.error);
+client.on("warn", console.warn);
