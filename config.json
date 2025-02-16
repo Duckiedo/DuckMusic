@@ -1,0 +1,11 @@
+{
+  "token": "MTI0MDAxMTUwNjA5NjI3OTY2Mw.GCU7KS.4ucyLXXXpF_57m8PUHshWpn7iotGsgSEqzoqyo",
+  "clientId": "1240011506096279663",
+  "guildId": "735968893960585287",
+  "reddit": {
+      "userAgent": "discord-bot:v1.0.0 (by u/SnooPoems5726)",
+      "clientId": "bY1F8jpxeMexy945qk-Z-Q",
+      "clientSecret": "-c8bcRNoL03JGRWu26FKOx0hfRUqLg",
+      "refreshToken": "615580844823-t1VpGjeLU-g4T9VHKICmF75IJI6aLQ"
+  }
+}
